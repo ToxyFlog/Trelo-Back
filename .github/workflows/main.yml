@@ -2,7 +2,7 @@ name: Test & Deploy
 
 on:
   push:
-    branches: [ master ]
+    branches: [ heroku ]
 
 jobs:
   test:
